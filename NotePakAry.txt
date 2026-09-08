@@ -1,2 +1,3 @@
 Day 1
 1. sudah membuat Git dan kolaborasi
+2. sudah diberika akses 
